@@ -5,7 +5,6 @@ using VetClinic.Application.Common;
 namespace VetClinic.API.Controllers;
 
 [ApiController]
-[Produces("application/json")]
 public abstract class BaseApiController : ControllerBase
 {
     /// <summary>
