@@ -5,7 +5,7 @@ Ela cadastra **Tutores** e seus **Pets** (relação 1:N), preenche o endereço d
 os endpoints com **JWT (roles Admin/User)**, devolve listas paginadas com **PageResult + HATEOAS** e padroniza
 os erros com **Operation Result**, **exceptions de domínio** e **ProblemDetails**.
 
-**Link do vídeo:** <PREENCHER>
+**Link do vídeo:** https://youtu.be/nYg1bPDoiA4
 
 ---
 

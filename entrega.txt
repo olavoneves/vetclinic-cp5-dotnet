@@ -1,9 +1,11 @@
 CP5 .NET - FIAP - VetClinic API (Clean Architecture)
 
 Repositório: https://github.com/olavoneves/vetclinic-cp5-dotnet
-Vídeo:       <PREENCHER>
+Vídeo:       https://youtu.be/nYg1bPDoiA4
 
 Integrantes:
-<NOME> - RM<NÚMERO>
-<NOME> - RM<NÚMERO>
-<NOME> - RM<NÚMERO>
+Olavo Porto Neves - RM563558
+Pedro Henrique Dias França - RM561940
+Luiz Gustavo Gonçalves - RM564495
+Altamir Lima - RM562906
+Felipe Conte - RM562248
