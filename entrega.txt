@@ -1,6 +1,6 @@
 CP5 .NET - FIAP - VetClinic API (Clean Architecture)
 
-Repositório: https://github.com/<USUARIO>/vetclinic-cp5-dotnet
+Repositório: https://github.com/olavoneves/vetclinic-cp5-dotnet
 Vídeo:       <PREENCHER>
 
 Integrantes:
